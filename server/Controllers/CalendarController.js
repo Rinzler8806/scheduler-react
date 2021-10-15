@@ -17,4 +17,4 @@ router.get("/get-events", async (req, res) => {
     res.send(events);
 });
 
-module.express = router;
+module.exports = router;
