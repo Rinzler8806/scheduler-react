@@ -5,7 +5,6 @@ const mongoose = require("mongoose");
 const app = express();
 app.use(express.json());
 
-// app.use("/api/calendar", require("./Controllers/CalendarController"));
 
 const PORT = process.env.PORT || 5000;
 
