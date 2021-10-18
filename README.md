@@ -5,6 +5,6 @@ The project allows the user to add and store meetings by time and date.
 
 To view the page, please select the link below.
 
-https://sr-memories.netlify.app/
+https://.netlify.app/
 
 ![](react-scheduler.png)
